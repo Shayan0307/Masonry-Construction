@@ -1,0 +1,251 @@
+.div_1{
+    background-color: #F6F1E9;
+    padding: 4% 0% 4% 0%;
+    }
+
+    a {
+      color:black;
+      text-decoration: none;
+    }
+    
+    
+    
+    
+    /* Navigation bar section ----------------------------------------------------*/
+    
+    #navigation_bar {
+
+      text-align: left;
+      background-color:   #F6F1E9;
+  }
+  
+  .navbar-brand{
+      font-family: 'Ubuntu', 'sans-serif';
+      font-size: 1rem;
+      padding-left: 2%;
+  }
+  
+  .container-navigation{
+  position: absolute;
+  top: 60px;
+  left: 270px;
+  }
+  
+  .phone{
+  position: absolute;
+  top: 135px;
+  left: 435px;
+  }
+  
+  .icons2{
+    position: absolute;
+    top: 128px;
+    left: 395px;
+    width: 3%;
+    }
+  
+    .icons1{
+      position: absolute;
+      top: 128px;
+      left: 555px;
+      width: 3%;
+      }
+  
+  .email{
+  position: absolute;
+  top: 135px;
+  left: 605px;
+  }
+  
+  .nav-link{
+    font-size: 1rem;
+    color: black;
+  }
+  
+  .logo{
+    width: 35%;
+    padding: 5%;
+  }
+    
+    
+    
+    /* title section -------------------------------------------------------------*/
+    
+    .div_0{
+    padding: 0% 0% 4% 0%;
+    background-color: #F6F1E9;
+    }
+    
+    .title_div{
+      width: 100%;
+      height: 600px;
+      background-image: url("../images/8.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+    }
+    
+    .big_heading{
+      font-family: Montserrat, sans-serif;
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1.5;
+      padding-top: 15%;
+    }
+    
+    
+    
+    /* quote section -------------------------------------------------------------*/
+    
+    .image_3{
+      width: 35%;
+      padding-right: 0;
+      position: relative;
+      padding: 0 0 0 0;
+    }
+    
+    .quote_info{
+      margin-right: 14%;
+    }
+    
+    .quote_text{
+      font-family: Montserrat, sans-serif;
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1.5;
+      padding-left: 20%;
+      padding-top: 5%;
+    }
+    
+    .quote_paragraph{
+      font-family: Montserrat, sans-serif;
+      font-size: 1rem;
+      font-weight: 200;
+      line-height: 1.5;
+      padding-left: 20%;
+      padding-top: 5%;
+    }
+    
+    .quote_div{
+      padding: 5% 0 0 20%;
+    }
+    
+    
+    
+    /* recent projects -----------------------------------------------------------*/
+    
+    .div_2{
+      color: black;
+      background-color: white;
+      padding: 5% 7% 5% 4.5%;
+    }
+    
+    .button_div{
+      padding: 5% 0 2% 0;
+      text-align: center;
+    }
+    
+    .projects_img{
+      width: 100%;
+      height: 100%;
+      padding-bottom: 25%;
+    }
+    
+    .projects_text{
+      padding: 1% 0 5% 0;
+      text-align: center;
+      font-family: Montserrat, sans-serif;
+      font-size: 2rem;
+      font-weight: 500;
+      line-height: 1.5;
+    }
+
+    
+    
+    
+    /* services section ----------------------------------------------------------*/
+    
+    .services_div{
+      text-align: center;
+      font-family: Montserrat, sans-serif;
+      font-size: 1rem;
+      font-weight: 500;
+      padding-bottom: 5%;
+    }
+    
+    .services_text{
+      padding: 3% 0 3% 0;
+      text-align: center;
+      font-family: Montserrat, sans-serif;
+      font-size: 3rem;
+      font-weight: 500;
+      line-height: 1.5;
+    }
+    
+    .services_content{
+      padding: 2% 0;
+    }
+    
+    hr{
+      width: 85%;
+      margin: auto;
+    
+    
+    }
+    
+    
+    
+    /* testimonials --------------------------------------------------------------*/
+    
+    
+    
+    
+    
+    /* call to action ------------------------------------------------------------*/
+    
+    
+    
+    
+    
+    /* footer --------------------------------------------------------------------*/
+    
+    
+    
+    #footer{
+      background-color: #F6F1E9;
+      padding: 4% 0% 1.5% 0%;
+    
+    }
+    
+    .logo2{
+      width: 5%;
+    
+      position: absolute;
+    }
+    
+    .div_3{
+      background-color: #F1DEC9;
+      padding: 5% 7% 3% 4.5%;
+    }
+    
+    .info{
+      text-align: left;
+    }
+    
+    .copyright{
+      padding: 2% 0% 0% 5%;
+    }
+    
+    .icons3{
+      width: 7%;
+    }
+    
+    
+    /* color schemes
+    #DCD7C9
+    #C69749
+    #A27B5C
+    #A9907E
+    #F3DEBA
+    
+    */
